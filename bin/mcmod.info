@@ -1,0 +1,16 @@
+[
+{
+  "modid": "torchmod",
+  "name": "TorchMod",
+  "description": "Makes vanilla tools place torches.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "http://www.hagiz.se/mods",
+  "updateUrl": "",
+  "authorList": ["HagiZ"],
+  "credits": "HagiZ (daniel@asball.se) and the Tinker's Construct team for the inspiration...",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
